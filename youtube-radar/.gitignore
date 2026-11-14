@@ -1,0 +1,5 @@
+.env
+.cache/
+rapor/
+ceviriler.json
+__pycache__/
